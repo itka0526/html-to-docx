@@ -1,0 +1,11 @@
+[project]
+name = "html_docx_itka0526"
+version = "0.0.2"
+authors = [{ name = "Itgelt Gankhulug", email = "itka0526@gmail.com" }]
+description = "HTML to DOCX"
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = ["Programming Language :: Python :: 3"]
+
+[project.urls]
+Homepage = "https://github.com/itka0526/html-to-docx"

@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: html-docx-itka0526
+Version: 0.0.2
+Summary: HTML to DOCX
+Author-email: Itgelt Gankhulug <itka0526@gmail.com>
+Project-URL: Homepage, https://github.com/itka0526/html-to-docx
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown

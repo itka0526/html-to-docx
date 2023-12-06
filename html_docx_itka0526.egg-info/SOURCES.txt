@@ -1,0 +1,6 @@
+pyproject.toml
+setup.py
+html_docx_itka0526.egg-info/PKG-INFO
+html_docx_itka0526.egg-info/SOURCES.txt
+html_docx_itka0526.egg-info/dependency_links.txt
+html_docx_itka0526.egg-info/top_level.txt
